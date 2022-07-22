@@ -1,0 +1,14 @@
+C:\Users\10122101\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\10122101\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\10122101\Downloads\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\MainWindow.baml
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\MainApplication.g.cs
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\10122101\Downloads\TestProject\TestProject\obj\Debug\TestProject.pdb
